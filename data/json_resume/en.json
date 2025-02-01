@@ -1,161 +1,103 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Richard Hendriks",
-    "label": "Programmer",
-    "image": "",
-    "email": "richard.hendriks@mail.com",
-    "phone": "(912) 555-4321",
-    "url": "http://richardhendricks.example.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "name": "Juan Pablo Arroyo",
+    "label": "Data scientist",
+    "picture": "https://scontent-qro1-1.cdninstagram.com/v/t51.2885-19/290034232_1387659475077688_3079203923498377511_n.jpg?_nc_ht=scontent-qro1-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2AHbX6ozkCB2VBbEA2pH2zaKAFOCNSQts-ilrNIEDluyBwZPIxKz4FoxG8gVrHDWNHecvfhaZkQxgC7sUwJzcBmX&_nc_ohc=wwEyGlQjgd0Q7kNvgE8HkBX&_nc_gid=3c8eaac3189c46cebf7d82c1b1cdedad&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AYDdzI_T-zqrYOu5OgP0ZXk4iVCiRnCnsolPezW_GqyP0w&oe=67A37547&_nc_sid=7d3ac5",
+    "email": "juan.arroyo@iteso.mx",
+    "phone": "(392) 107-0939",
+    "summary": "Estudiante de ciencia de datos de  la 5ta generacion ITESO. Con afinidades con las matematicas puras las ciencias de la computación y gusto por la filosofia, lectura, y la musica",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
-      },
-      {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.example.com/dandymusicnl"
+        "network": "LinkedIn",
+        "username": "Juan Pablo Arroyo Godinez",
+        "url": "www.linkedin.com/in/juan-pablo-arroyo-godinez-b2234934a"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
-      "url": "http://piedpiper.example.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
-      "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
-    }
-  ],
+  "work": [],
   "volunteer": [
-    {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
-    }
+    {}
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "url": "https://www.ou.edu/",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "score": "4.0",
+      "institution": "Instituto Tecnologico de Estudios Superiores de Occidente",
+      "area": "Data science, Data engineering, Data analysis, Financial aplications, Math foundations ",
+      "studyType": "Major",
+      "startDate": "2024-08-10",
+      "endDate": "1931-10-18",
+      "gpa": "3.9",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        "Data visualization with Power Bi",
+        "Data treatment and processing",
+        "Data analysis",
+        "Feature engineering",
+        "Diferential calculus",
+        "Integral Calculus",
+        "Algorithms I",
+        "Linear Algebra"
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
-    }
-  ],
+  "awards": [],
+  "publications": [],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Programing",
+      "level": "Intermediate",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "Rust",
+        "Python",
+        "Pandas",
+        "Scikit learn",
+        "yahoo finance",
+        "polars"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Entrepreneurship",
+      "level": "Expert",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Business Development",
+        "Product Innovation",
+        "Industrial Research"
       ]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Spanish",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "High"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Research and Development",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Innovations",
+        "Experimentation"
+      ]
+    },
+    {
+      "name": "Pure math",
+      "keywords": [
+        "math",
+        "theorems",
+        "research",
+        "statistics"
+      ]
+    },
+    {
+      "name": "Statistics",
+      "keywords": [
+        "Statistical Test",
+        "Hypothesis",
+        "Experimentation"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
-      "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
-      ],
-      "keywords": [
-        "GoogleMaps", "Chrome Extension", "Javascript"
-      ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "missdirection.example.com",
-      "roles": [
-        "Team lead", "Designer"
-      ],
-      "entity": "Smoogle",
-      "type": "application"
-    }
-  ],
-  "meta": {
-    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-    "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00"
-  }
+  "references": []
 }
